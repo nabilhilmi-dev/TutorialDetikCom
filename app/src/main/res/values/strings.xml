@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DetikComApp</string>
+    <string name="home">home</string>
+    <string name="layanan">layanan</string>
+    <string name="var_contdesc">contdesc</string>
+    <string name="judul_headline">judulheadlines</string>
+    <string name="deskripsi_headline">deskripsiheadline</string>
+    <string name="fotodesc">fotodesc</string>
+    <string name="detiknews">detiknews</string>
+    <string name="judul_berita">judulberita</string>>
+
+    <string name="terbaru">terbaru</string>
+    <string name="beritautama">beritautama</string>
+    <string name="antarkansemangat">#antarkansemangat</string>
+    <string name="mostpopular">mostpopular</string>
+    <string name="loremsum">loremsum</string>
+    <string name="_contdesc">contdesc</string>
+
+</resources>
